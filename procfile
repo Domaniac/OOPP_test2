@@ -1,0 +1,1 @@
+web: gunicorn <DomsReviewFunc_v0.1>:<app>
